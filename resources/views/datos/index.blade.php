@@ -149,7 +149,8 @@
 <br>
 <br>
 <div class="container">
-<table class="table text-center table-bordered table-hover" id="data">
+  <div class="table-responsive">
+  <table class="table text-center table-bordered table-hover table-responsive" id="data">
   <thead class="bg-primary text-white">
     <tr>
       <th>Nombre</th>
@@ -163,6 +164,8 @@
     
   </tbody>
 </table>
+  </div>
+
 </div>
 
 <script>
